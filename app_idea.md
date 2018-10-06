@@ -2,16 +2,16 @@ Mobile App Dev - App Brainstorming Example
 ===
 
 ## Favorite Existing Apps - List
-<ol>
-<li>Instagram +</li>
-<li>Pandora</li>
-<li>Youtube</li>
-<li>Spotify</li>
-<li>Facebook</li>
-<li>Uber</li>
-<li>Reddit</li>
-<li>Snapchat</li>
-</ol>
+
+Instagram +
+Pandora
+Youtube
+Spotify
+Facebook
+Uber
+Reddit
+Snapchat
+
 
 ## Favorite Existing Apps - Categorize and Evaluate
 ### Instagram
@@ -66,8 +66,8 @@ Events update
 
 ## Top 3 New App Ideas by person
 
-<h2>Izzy </h2>
-<ul>
+Izzy 
+<
 <li>Budget Tracker(College Students)<br>
 ------>Allows user to track all financial decisions and indicates/promotes healthy financial decisions.</li>
 <li>    Events update<br>
