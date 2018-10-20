@@ -1,7 +1,7 @@
 # CollegeLife
 
 ### App Description
-A social media technology that allows students to network with colleagues in regards of various college related reasons. Allows students to keep track of expanses, loacal deals and community events, ride share, book sale/rent/give away
+A social media technology that allows students to network with colleagues in regards of various college related reasons. Allows students to keep track of expanses, loacal deals and community events, ride share, book sale/rent/give away.
 
 ### App Idea Evaluation
 // TODO: Evaluate app across the following categories using the App Evaluation Protocol.
